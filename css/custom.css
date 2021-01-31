@@ -95,5 +95,26 @@ div .hideNews {
   display: none;
 }
 
+span.tab-space {
+  word-spacing:5em;
+}
+
+hr.style1{
+	border-top: 1.5px solid #8c8b8b;
+}
+
+
+hr.style2 {
+	border-top: 3px double #8c8b8b;
+}
+
+hr.style3 {
+	border-top: 1px dashed #8c8b8b;
+}
+
+hr.style4 {
+	border-top: 1px dotted #8c8b8b;
+}
+
 
 
